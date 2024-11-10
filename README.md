@@ -1,4 +1,4 @@
-# IMDB-analysis-using-python
+# IMDB-Analysis
 
 This project involves analyzing IMDb movie data using Python. The analysis includes data cleaning, exploration, visualization, and some basic machine learning models to predict movie ratings.
 
